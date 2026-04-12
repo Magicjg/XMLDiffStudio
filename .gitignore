@@ -5,6 +5,7 @@ __pycache__/
 *.pyd
 build/
 dist/
+*.spec
 config.json
 Thumbs.db
 .DS_Store
