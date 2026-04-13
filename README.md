@@ -1,8 +1,8 @@
 # XMLDiffStudio
 
-Aplicacion de escritorio para comparar archivos `XML` y `JSON` con una interfaz visual pensada para detectar cambios de estructura y valores mas rapido.
+![XMLDiffStudio Banner](assets/readme-banner.png)
 
-![XMLDiffStudio Preview](assets/readme-preview.png)
+Aplicacion de escritorio para comparar archivos `XML` y `JSON` con una interfaz visual pensada para detectar cambios de estructura y valores mas rapido.
 
 ## Que hace
 
@@ -20,6 +20,8 @@ Aplicacion de escritorio para comparar archivos `XML` y `JSON` con una interfaz 
 ## Vista general
 
 La app esta pensada para revisar diferencias de configuracion, integraciones, payloads o documentos estructurados sin pelearte con archivos enormes en texto plano.
+
+![XMLDiffStudio Preview](assets/readme-preview.png)
 
 Incluye:
 
