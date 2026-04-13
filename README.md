@@ -72,6 +72,7 @@ dist/XMLDiffStudio/XMLDiffStudio.exe
 
 - Icono principal: `assets/xmldiffstudio-icon.ico`
 - Vista previa: `assets/xmldiffstudio-icon.png`
+- Avatar/logo cuadrado: `assets/xmldiffstudio-avatar.png`
 
 ## Version actual
 
