@@ -2,7 +2,7 @@
 
 Aplicacion de escritorio para comparar archivos `XML` y `JSON` con una interfaz visual pensada para detectar cambios de estructura y valores mas rapido.
 
-![XMLDiffStudio Icon](assets/xmldiffstudio-icon.png)
+![XMLDiffStudio Preview](assets/readme-preview.png)
 
 ## Que hace
 
